@@ -1,0 +1,6 @@
+{
+  "name": "RequirementDetective",
+  "description": "AI-powered Software Requirement Engineering platform for detecting missing, ambiguous, conflicting, and risky requirements before development begins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
